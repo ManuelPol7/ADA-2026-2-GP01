@@ -4,7 +4,7 @@ Curso de Análisis y Diseño de Algoritmos. El trabajo es encontrar una buena co
 
 | Notebook | Colab |
 |---|---|
-| Proyecto | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielMelo404/Proyecto-Oraculo-AyD/blob/main/proyecto_oraculo.ipynb) |
+| Proyecto | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ManuelPol7/ADA-2026-2-GP01/blob/main/proyecto_oraculo.ipynb) |
 
 ## Cómo se juega
 
